@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>purviszhang</title>
+    <link>https://purviszhang.github.io/</link>
+    <description>Recent content on purviszhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 25 Apr 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://purviszhang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EastMoney Co</title>
+      <link>https://purviszhang.github.io/post/markdown-syntax/</link>
+      <pubDate>Tue, 25 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://purviszhang.github.io/post/markdown-syntax/</guid>
+      <description>东方财富信息股份有限公司 -测试工程师 2017.04-至今</description>
+    </item>
+    
+    <item>
+      <title>Weaver Co</title>
+      <link>https://purviszhang.github.io/post/rich-content/</link>
+      <pubDate>Mon, 24 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://purviszhang.github.io/post/rich-content/</guid>
+      <description>上海泛微网络科技股份有限公司 -测试工程师 2015.08-2017.04</description>
+    </item>
+    
+    <item>
+      <title>Baison Yishang Co</title>
+      <link>https://purviszhang.github.io/post/placeholder-text/</link>
+      <pubDate>Thu, 31 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://purviszhang.github.io/post/placeholder-text/</guid>
+      <description>上海百胜翼商网络科技有限公司 -测试工程师 2014.07-2015.08</description>
+    </item>
+    
+    <item>
+      <title>study in NUC</title>
+      <link>https://purviszhang.github.io/post/emoji-support/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://purviszhang.github.io/post/emoji-support/</guid>
+      <description>2010.9&amp;ndash;2014.7 中北大学 计算机科学与技术 本科</description>
+    </item>
+    
+  </channel>
+</rss>
